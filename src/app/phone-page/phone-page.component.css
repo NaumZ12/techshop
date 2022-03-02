@@ -1,0 +1,8 @@
+
+.phone-container{
+  display: grid;
+  grid-template-columns: auto auto;
+  position: relative;
+  top: 200px;
+  margin-left:400px ;
+}

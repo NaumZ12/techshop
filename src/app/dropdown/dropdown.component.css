@@ -1,0 +1,30 @@
+
+mat-form-field{
+  background-color: none;
+  align-items: center;
+ outline: none;
+ height: 800px;
+
+}
+
+mat-select{
+  height: calc(150vh - 250vh);
+  width: 400px;
+
+}
+mat-option{
+  width: 100%;
+}
+
+
+mat-label{
+  color: white;
+  font-size: 1.3rem;
+
+
+}
+ a{
+  height: 100%;
+  font-size:1.4rem ;
+  text-decoration: none;
+}

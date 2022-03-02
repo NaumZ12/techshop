@@ -1,0 +1,36 @@
+footer{
+  background-color: rgb(35, 35, 75);
+  width: 100%;
+  height: 80px;
+  position: relative;
+  top: 800px;
+  color: white;
+  align-items: center;
+}
+header{
+  align-items: center;
+  display: flex;
+  background-color: rgb(90, 90, 126);
+  height: 45px;
+}
+header button{
+  width: 100%;
+  height: 100%;
+  color: orange;
+
+
+
+}
+
+a{
+  text-decoration: none;
+  color: orange;
+}
+div{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+div button{
+  color: rgb(255, 255, 255);
+}

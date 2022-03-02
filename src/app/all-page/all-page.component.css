@@ -1,0 +1,9 @@
+
+.all-container{
+  display: grid;
+  grid-template-columns: auto auto;
+  position: relative;
+  margin-bottom: 10px;
+  top: 200px;
+  margin-left:400px ;
+}

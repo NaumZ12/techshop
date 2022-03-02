@@ -1,0 +1,38 @@
+.container{
+  background-color: white;
+  width: 308px;
+  height: 308px;
+border: 1PX SOLID rgba(0, 0, 0, 0.034);
+
+
+}
+header{
+  width: 100%;
+  position: relative;
+  left: 70px;
+
+
+}
+
+header h2{
+  position: relative;
+  left: 50px;
+}
+
+
+img{
+  width: 175px;
+  margin: 0;
+  height: 121;
+
+}
+.cart_price{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+}
+.cart_price button{
+  background-color: orange;
+  color: white;
+}
